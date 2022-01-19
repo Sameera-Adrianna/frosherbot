@@ -4,7 +4,7 @@
 #                                      #
 ########################################
 
-Token: ""
+Token: "OTMzMjU4OTY5NDE2MzUxNzQ0.Yee7JQ.BqyLQilpvv9PqZM_cw8juOw11W4"
 Key: "DirectLeaks"
 Prefix: "-"
 
@@ -26,14 +26,14 @@ EmbedColors:
 ########################################
 
 Storage:
-    Type: "sqlite"
+    Type: "mysql"
 
     MySQL:
-        Host: ""
-        Port: ""
-        Database: ""
-        User: ""
-        Password: ""
+        Host: "au01-db.cus.mc-panel.net"
+        Port: "3306"
+        Database: "db_394952"
+        User: "db_394952"
+        Password: "a26ea30df3"
 
 ########################################
 #                                      #
